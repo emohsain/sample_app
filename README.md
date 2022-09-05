@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+managed to populate the git repo using
+git add .
+git commit -m "first commit
+git branch -M master
+git remote add origin https://github.com/emohsain/sample_app.git
+git push -u origin master
